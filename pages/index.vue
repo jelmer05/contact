@@ -1,4 +1,14 @@
-<script setup>
+<script setup lang="ts">
+	useHead({
+		title: "Contact techgether",
+		meta: [
+			{
+				name: "description",
+				content:
+					"Neem gemakkelijk contact op met Techgether via onze chatbot, 24/7 bereikbaar ",
+			},
+		],
+	});
 	onMounted(() => {
 		const script = document.createElement("script");
 		script.src = "//code.tidio.co/w6yfcexhzyaob5abpjedi6gwazcobfc0.js";
