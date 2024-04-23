@@ -5,7 +5,7 @@
 			{
 				name: "description",
 				content:
-					"Neem gemakkelijk contact op met Techgether via onze chatbot, 24/7 bereikbaar ",
+					"Neem gemakkelijk contact op met Techgether via de chatbot, 24/7 bereikbaar ",
 			},
 		],
 	});
